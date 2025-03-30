@@ -18,3 +18,6 @@ A simple yet fun **Snake Game** built with **HTML, CSS, and JavaScript**. Contro
 ✔️ **Classic snake movement**  
 ✔️ **Score tracking system** 🏆  
 ✔️ **Smooth animations &**
+
+
+https://gamzeordu.github.io/snake-game/
